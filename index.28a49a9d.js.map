@@ -1,0 +1,1 @@
+{"mappings":"YAAqBA,SAASC,cAAc,YAE5CC,I","sources":["src/index.js"],"sourcesContent":["const weatherBlock = document.querySelector('#weather');\n\nash;\n"],"names":["document","querySelector","ash"],"version":3,"file":"index.28a49a9d.js.map"}
